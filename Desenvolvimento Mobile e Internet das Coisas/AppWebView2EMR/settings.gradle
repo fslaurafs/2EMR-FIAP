@@ -1,0 +1,2 @@
+rootProject.name='AppWebView2EMR'
+include ':app'
