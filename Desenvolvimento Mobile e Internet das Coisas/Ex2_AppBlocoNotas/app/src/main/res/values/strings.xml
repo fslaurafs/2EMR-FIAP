@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex2_AppBlocoNotas</string>
+
+    <string name="titulo">BLOCO DE NOTAS</string>
+    <string name="hint">Digite o nome do arquivo</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="salvar">SALVAR</string>
+    <string name="recuperar">RECUPERAR</string>
+    <string name="resultado">Resultado</string>
+</resources>
