@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppBlocoNotas</string>
+
+    <string name="titulo">BLOCO DE NOTAS</string>
+    <string name="hint">Digite o nome do arquivo para abrir</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="recuperar">Recuperar</string>
+</resources>
