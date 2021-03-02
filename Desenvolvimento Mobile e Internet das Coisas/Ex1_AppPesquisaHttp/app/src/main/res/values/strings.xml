@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex1_AppPesquisa</string>
+
+    <string name="app">APP PESQUISA</string>
+    <string name="id">ID:</string>
+    <string name="title">TITLE:</string>
+    <string name="completed">COMPLETED:</string>
+    <string name="pesquisar">PESQUISAR</string>
+    <string name="by">POR: LAURA FERNANDES SORATO (RM:83207)</string>
+</resources>
