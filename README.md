@@ -1,7 +1,7 @@
 <h1 align="center"> :books: FIAP 2EMR - 2020 </h1>
 
 <h3> :pushpin: Sobre: </h3>
-<p>Projetos feitos em aulas da turma do 2° ano de Engenharia Mecatrônica em 2020.</p>
+<p>Projetos feitos em aulas da turma do 2° ano de Engenharia Mecatrônica em 2020 na FIAP.</p>
 
 <hr>
 
